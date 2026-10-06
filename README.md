@@ -1,6 +1,6 @@
 # Following Summer
 
-A three-part visualisation of bird migration. Three self-contained pages, no build step,
+A three-part visualisation of bird migration for fun. Three self-contained pages, no build step,
 no framework, no binary assets.
 
 | Page | What it shows |
